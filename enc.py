@@ -56,7 +56,4 @@ if __name__ == '__main__':
 		else:
 			print " [!] Cara Menggunakan Nya :"
 			print " [+] Encrypt Python2 Ketik : python2 enc.py enc_py2"
-			exit (" [+] Encrypt Python3 Ketik : python2 enc.py enc_py3")
-	print " [!] Cara Menggunakan Nya :"
-	print " [+] Encrypt Python2 Ketik : python2 enc.py enc_py2"
-	exit (" [+] Encrypt Python3 Ketik : python2 enc.py enc_py3")
+			exit (" [+] Encrypt Python3 Ketik : python2 enc.py enc_py3") 
